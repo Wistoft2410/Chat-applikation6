@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80ddb909-2a71-4a09-b767-54c36d695214" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hxDxRsrpRCw07C6GI7Kmg1K0wl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ajrp\Desktop\DataBaseTest\data" />
+      <recent name="C:\Users\ajrp\Desktop\DataBaseTest\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DataBaseTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80ddb909-2a71-4a09-b767-54c36d695214" name="Default Changelist" comment="" />
+      <created>1601639044658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601639044658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom" timestamp="1601644724665">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601644724665" />
+    <state width="1398" height="247" key="GridCell.Tab.0.center" timestamp="1601644724664">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="247" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601644724664" />
+    <state width="1398" height="247" key="GridCell.Tab.0.left" timestamp="1601644724663">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="247" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601644724663" />
+    <state width="1398" height="247" key="GridCell.Tab.0.right" timestamp="1601644724664">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="247" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601644724664" />
+    <state width="678" height="162" key="GridCell.Tab.1.bottom" timestamp="1601643661989">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="162" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601643661989" />
+    <state width="678" height="162" key="GridCell.Tab.1.center" timestamp="1601643661988">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="162" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1601643661988" />
+    <state width="678" height="162" key="GridCell.Tab.1.left" timestamp="1601643661987">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="162" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1601643661987" />
+    <state width="678" height="162" key="GridCell.Tab.1.right" timestamp="1601643661988">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="678" height="162" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1601643661988" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1601643101247">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601643101247" />
+  </component>
+</project>
